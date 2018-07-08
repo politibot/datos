@@ -39,7 +39,7 @@ ggplot(df[7:10, ], aes(group, group = 1)) +
   theme_minimal()
   # ggsave('trimestres.pdf', width = 25.4, height = 14.816666667, units = "cm")
 
-# Grupos de ead
+# Grupos de edad
 ggplot(df[42:46, ], aes(group, group = 1)) +
   geom_line(aes(y = all), colour="#66c2a5") +
   geom_line(aes(y = men), colour = "#8da0cb") +
