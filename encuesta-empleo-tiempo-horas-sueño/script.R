@@ -6,6 +6,9 @@ library(ggplot2)
 
 setwd(here('encuesta-empleo-tiempo-horas-sueño/'))
 
+# http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176815&menu=resultados&idp=1254735976608
+# Actividades que se realizan en el transcurso del día y duración media diaria >
+# 1.5 CUIDADOS PERSONALES. Dormir: Principales variables y sexo
 df <- read_csv('2009-2010.csv') %>%
   rename(group = X1) %>%
   mutate(
@@ -36,7 +39,7 @@ ggplot(df[7:10, ], aes(group, group = 1)) +
   theme_minimal()
   # ggsave('trimestres.pdf', width = 25.4, height = 14.816666667, units = "cm")
 
-# EGrupos de ead
+# Grupos de ead
 ggplot(df[42:46, ], aes(group, group = 1)) +
   geom_line(aes(y = all), colour="#66c2a5") +
   geom_line(aes(y = men), colour = "#8da0cb") +
@@ -50,7 +53,8 @@ ggplot(df[42:46, ], aes(group, group = 1)) +
   theme_minimal()
   # ggsave('grupos_edad.pdf', width = 25.4, height = 14.816666667, units = "cm")
 
-# TSituación laboralggplot(df[c(75,78,80,81), ], aes(group, group = 1)) +
+# Situación laboral
+  ggplot(df[c(75,78,80,81), ], aes(group, group = 1)) +
   geom_line(aes(y = all), colour="#66c2a5") +
   geom_line(aes(y = men), colour = "#8da0cb") +
   geom_line(aes(y = women), colour = "#fc8d62") +
@@ -63,7 +67,8 @@ ggplot(df[42:46, ], aes(group, group = 1)) +
   theme_minimal()
   # ggsave('situacion_laboral.pdf', width = 25.4, height = 14.816666667, units = "cm")
 
-# HTipo de hogarggplot(df[13:15, ], aes(group, group = 1)) +
+# Tipo de hogar
+  ggplot(df[13:15, ], aes(group, group = 1)) +
   geom_line(aes(y = all), colour="#66c2a5") +
   geom_line(aes(y = men), colour = "#8da0cb") +
   geom_line(aes(y = women), colour = "#fc8d62") +
