@@ -1,0 +1,122 @@
+,all_hours,all_minutes,men_hours,men_minutes,women_hours,women_minutes
+TOTAL,8,41,8,44,8,39
+Tipo de día de la semana: Lunes a jueves,8,28,8,29,8,27
+Tipo de día de la semana: Viernes a domingo,8,58,9,2,8,54
+- Viernes,8,18,8,20,8,16
+- Sábado,8,47,8,48,8,46
+- Domingo,9,50,9,59,9,42
+Trimestre del año: 1er trimestre (enero-marzo),8,40,8,43,8,38
+Trimestre del año: 2º trimestre (abril-junio),8,36,8,40,8,32
+Trimestre del año: 3er trimestre (julio-septiembre),8,42,8,43,8,41
+Trimestre del año: 4º trimestre (octubre-diciembre),8,46,8,48,8,44
+Tipo de día de cumplimentación del diario: Habitual,8,39,8,41,8,36
+Tipo de día de cumplimentación del diario: Inusual,8,51,8,52,8,49
+Tipo de hogar en el que viven: Hogar unipersonal,8,54,8,38,9,6
+Tipo de hogar en el que viven: Pareja sola,8,49,8,55,8,43
+Tipo de hogar en el que viven: Pareja con hijos,8,34,8,37,8,29
+"Tipo de hogar en el que viven: Padre o madre sólo, con algún hijo",8,48,9,5,8,39
+Tipo de hogar en el que viven: Otro tipo de hogar,8,47,8,48,8,47
+Tamaño del hogar en el que viven: Hogar de 1 miembro,8,54,8,38,9,6
+Tamaño del hogar en el que viven: Hogar de 2 miembros,8,49,8,54,8,44
+Tamaño del hogar en el que viven: Hogar de 3 miembros,8,36,8,41,8,31
+Tamaño del hogar en el que viven: Hogar de 4 miembros,8,36,8,36,8,35
+Tamaño del hogar en el que viven: Hogar de 5 ó más miembros,8,40,8,50,8,31
+Niños menores de 10 años en el hogar: Con niños menores de 10 años,8,26,8,26,8,26
+Niños menores de 10 años en el hogar: Sin niños menores de 10 años,8,46,8,50,8,43
+Adultos dependientes en el hogar: Con adultos dependientes en el hogar,9,27,9,37,9,20
+Adultos dependientes en el hogar: Sin adultos dependientes en el hogar,8,38,8,40,8,36
+Hijos menores de 18 años en otro hogar: Con hijos menores de 18 años en otro hogar,8,31,8,30,8,32
+Hijos menores de 18 años en otro hogar: Sin hijos menores de 18 años en otro hogar,8,37,8,39,8,36
+Servicio doméstico en el hogar en el que viven: Con servicio doméstico,8,46,8,42,8,51
+Servicio doméstico en el hogar en el que viven: Sin servicio doméstico,8,41,8,44,8,38
+Ingresos mensuales medios netos del hogar en el que viven: 1.200 euros o menos,9,4,9,14,8,55
+Ingresos mensuales medios netos del hogar en el que viven: De 1.201 a 2.000 euros,8,37,8,39,8,34
+Ingresos mensuales medios netos del hogar en el que viven: De 2.001 a 3.000 euros,8,24,8,21,8,28
+Ingresos mensuales medios netos del hogar en el que viven: Más de 3.000 euros,8,19,8,22,8,16
+Ingresos mensuales medios netos del hogar en el que viven: No sabe/no contesta,8,41,8,43,8,39
+Tipo de municipio en el que viven: Capitales de provincia o con más de 100.000 habitantes,8,40,8,42,8,38
+Tipo de municipio en el que viven: Municipios de 50.000 a 100.000 habitantes,8,34,8,35,8,33
+Tipo de municipio en el que viven: Municipios de 20.000 a 50.000 habitantes,8,40,8,44,8,36
+Tipo de municipio en el que viven: Municipios de 10.000 a 20.000 habitantes,8,34,8,39,8,28
+Tipo de municipio en el que viven: Municipios con menos de 10.000 habitantes,8,52,8,53,8,50
+Edad: Menos de 25 años,9,7,9,17,8,56
+- De 10 a 15 años,9,34,9,35,9,33
+- De 16 a 24 años,8,52,9,7,8,36
+Edad: De 25 a 44 años,8,18,8,18,8,19
+Edad: De 45 a 64 años,8,21,8,24,8,18
+Edad: 65 ó más años,9,34,9,42,9,28
+Nivel de estudios alcanzado: Sin estudios,9,34,9,42,9,28
+Nivel de estudios alcanzado: Estudios primarios o equivalentes,8,56,9,2,8,50
+"Nivel de estudios alcanzado: Enseñanza secundaria de 1ª etapa (Bach. Elem., EGB, ESO)",8,34,8,42,8,26
+"Nivel de estudios alcanzado: Estudios de bachillerato (Bach. Superior, BUP, COU, PREU)",8,24,8,22,8,26
+Nivel de estudios alcanzado: Enseñanzas profesionales de grado medio,8,24,8,27,8,21
+Nivel de estudios alcanzado: Enseñanzas profesionales de grado superior,8,21,8,15,8,28
+Nivel de estudios alcanzado: Estudios universitarios de primer ciclo,8,18,8,12,8,21
+Nivel de estudios alcanzado: Estudios universitarios de segundo o tercer ciclo,8,10,8,13,8,8
+Estado de salud percibido: Muy bueno,8,34,8,35,8,33
+Estado de salud percibido: Bueno,8,29,8,32,8,25
+Estado de salud percibido: Aceptable,8,56,9,1,8,51
+Estado de salud percibido: Malo,9,46,9,58,9,38
+Estado de salud percibido: Muy malo,10,45,11,27,10,22
+País de nacimiento: España,8,42,8,44,8,40
+País de nacimiento: Fuera de España,8,36,8,41,8,30
+- En un país de la Unión Europea,8,30,8,30,8,31
+- En otro país,8,38,8,46,8,30
+Nacionalidad: Española,8,42,8,44,8,40
+Nacionalidad: Extranjera,8,38,8,44,8,34
+- De un país de la Unión Europea,8,33,8,31,8,35
+- De otro país (incluidos apátridas),8,40,8,48,8,33
+Estado civil legal: Soltero/a,8,47,8,51,8,42
+Estado civil legal: Casado/a,8,32,8,37,8,28
+Estado civil legal: Viudo/a,9,36,9,52,9,32
+Estado civil legal: Separado/a o Divorciado/a,8,28,8,33,8,24
+Convivencia en pareja: Convive actualmente en pareja,8,31,8,34,8,27
+Convivencia en pareja: No convive actualmente en pareja,8,51,8,49,8,51
+Relación con la actividad y situación profesional respecto al trabajo principal: Activos,8,17,8,19,8,15
+Relación con la actividad y situación profesional respecto al trabajo principal: Ocupados,8,7,8,7,8,8
+- Empleador o empresario sin asalariados,8,8,8,9,8,8
+- Asalariados,8,7,8,6,8,8
+Relación con la actividad y situación profesional respecto al trabajo principal: Parados,8,55,9,3,8,44
+Relación con la actividad y situación profesional respecto al trabajo principal: Inactivos,9,12,9,28,9,2
+Relación con la actividad y situación profesional respecto al trabajo principal: Estudiantes,9,9,9,19,8,59
+Relación con la actividad y situación profesional respecto al trabajo principal: Jubilados o pensionistas,9,31,9,34,9,27
+Relación con la actividad y situación profesional respecto al trabajo principal: Labores del hogar,8,40,-8,-47,8,40
+Tipo de jornada de los ocupados: A tiempo completo,8,6,8,6,8,7
+Tipo de jornada de los ocupados: A tiempo parcial,8,14,8,26,8,12
+Tipo de horario de los ocupados: Jornada continua,8,5,8,3,8,7
+Tipo de horario de los ocupados: Jornada partida,8,10,8,10,8,10
+Trabajo secundario: Con trabajo secundario,7,52,7,51,7,52
+Trabajo secundario: Sin trabajo secundario,8,8,8,7,8,8
+Tipo de contrato de los asalariados: Con contrato indefinido,8,6,8,5,8,7
+Tipo de contrato de los asalariados: Con contrato temporal,8,10,8,10,8,10
+Ocupación en el trabajo principal de los ocupados: Dirección de empresas y administraciones públicas,7,58,7,58,7,59
+Ocupación en el trabajo principal de los ocupados: Técnicos y profesionales científicos e intelectuales,8,3,8,1,8,5
+Ocupación en el trabajo principal de los ocupados: Técnicos y profesionales de apoyo,8,13,8,15,8,10
+Ocupación en el trabajo principal de los ocupados: Empleados de tipo administrativo,8,8,8,8,8,7
+Ocupación en el trabajo principal de los ocupados: Trabajadores de servicios y vendedores de comercios,8,12,8,12,8,11
+Ocupación en el trabajo principal de los ocupados: Cualificados en la agricultura y la pesca,8,5,8,5,8,6
+Ocupación en el trabajo principal de los ocupados: Artesanos y cualificados en manufact. constr. y minería,8,7,8,7,8,5
+"Ocupación en el trabajo principal de los ocupados: Operadores de instalaciones y maquinaria, y montadores",7,58,7,56,8,11
+Ocupación en el trabajo principal de los ocupados: Trabajadores no cualificados,8,10,8,14,8,7
+Ocupación en el trabajo principal de los ocupados: Fuerzas armadas,8,34,8,23,-10,-40
+"Actividad del establecimiento del trabajo principal: A. Agricultura, ganadería, silvicultura y pesca",8,10,8,16,7,57
+Actividad del establecimiento del trabajo principal: B. Industrias extractivas,-7,-49,-7,-50,-7,-44
+Actividad del establecimiento del trabajo principal: C. Industria manufacturera,8,3,8,4,8,1
+"Actividad del establecimiento del trabajo principal: D. Suministro de energía eléctrica, gas, vapor y aire acondicionado",7,47,7,45,-7,-53
+"Actividad del establecimiento del trabajo principal: E. Suministro de agua, act. de saneamiento, gestión de residuos y descontaminación",7,28,7,24,-7,-48
+Actividad del establecimiento del trabajo principal: F. Construcción,8,10,8,9,8,22
+Actividad del establecimiento del trabajo principal: G. Comercio reparación de vehículos de motor y motocicletas,8,12,8,16,8,7
+Actividad del establecimiento del trabajo principal: H. Transporte y almacenamiento,7,55,7,58,7,44
+Actividad del establecimiento del trabajo principal: I. Hostelería,8,6,7,59,8,12
+Actividad del establecimiento del trabajo principal: J. Información y comunicaciones,8,6,8,5,8,8
+Actividad del establecimiento del trabajo principal: K. Actividades financieras y de seguros,8,29,8,37,8,20
+Actividad del establecimiento del trabajo principal: L. Actividades inmobiliarias,8,43,-8,-50,-8,-39
+"Actividad del establecimiento del trabajo principal: M. Actividades profesionales, científicas y técnicas",8,11,8,2,8,20
+Actividad del establecimiento del trabajo principal: N. Actividades administrativas y servicios auxliares,8,10,8,2,8,15
+"Actividad del establecimiento del trabajo principal: O. Administración Pública y defensa, seguridad social obligatoria",8,7,8,7,8,6
+Actividad del establecimiento del trabajo principal: P. Educación,8,7,7,58,8,11
+Actividad del establecimiento del trabajo principal: Q. Actividades sanitarias y de servicios sociales,7,51,7,46,7,53
+"Actividad del establecimiento del trabajo principal: R. Actividades artísticas, recreativas y de entretenimiento",8,20,8,22,8,17
+Actividad del establecimiento del trabajo principal: S. Otros servicios,8,24,8,20,8,27
+Actividad del establecimiento del trabajo principal: T. Act. de los hogares como empleadores de personal doméstico,8,9,-8,-4,8,10
+Actividad del establecimiento del trabajo principal: U. Actividades de organizaciones y organismos extraterritoriales,-8,-37,-7,-20,-9,-10
