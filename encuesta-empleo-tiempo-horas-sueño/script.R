@@ -1,16 +1,12 @@
-library(here)
 library(readr)
-library(dplyr)
 library(stringr)
+library(dplyr)
 library(ggplot2)
-
-setwd(here('encuesta-empleo-tiempo-horas-sueño/'))
 
 # http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176815&menu=resultados&idp=1254735976608
 # Actividades que se realizan en el transcurso del día y duración media diaria >
 # 1.5 CUIDADOS PERSONALES. Dormir: Principales variables y sexo
-df <- read_csv('2009-2010.csv') %>%
-  rename(group = X1) %>%
+df <- read_csv('2009-2010.csv') %>% 
   mutate(
     all = paste(all_hours, str_pad(all_minutes, 2, pad = "0"), sep = ':'),
     men = paste(men_hours, str_pad(men_minutes, 2, pad = "0"), sep = ':'),
